@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+h3{
+    text-align: center;
+    background-color: cornflowerblue;
+}
+
+a{
+    color: rebeccapurple;
+    text-decoration: none;
+}
+body{
+    background-color: mediumspringgreen;
+}
